@@ -1,0 +1,1 @@
+# Smart-Sales-and-Stock-prediction-app
