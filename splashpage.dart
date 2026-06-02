@@ -1,31 +1,4 @@
-// import 'dart:async';
 
-// import 'package:flutter/material.dart';
-// //import 'package:flutter_application_1/loginpage.dart';
-// import 'package:flutter_application_1/siginup.dart';
-
-
-
-// class Splashpage extends StatefulWidget {
-//   const Splashpage({super.key});
-
-//   @override
-//   State<Splashpage> createState() => _SplashpageState();
-// }
-
-// class _SplashpageState extends State<Splashpage> {
-//   @override
-//   Widget build(BuildContext context) {
-//     Timer(Duration (seconds:2),() =>  Navigator.pushReplacement(context, MaterialPageRoute(builder : (context)  => SignupPage(),
-      
-//     )));
-//     return Scaffold(
-//       body: Container(
-//         color: Colors.pink,
-//       ),
-//     );
-//   }
-// }
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/siginup.dart';
